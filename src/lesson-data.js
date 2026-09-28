@@ -10,7 +10,7 @@ export const lesson = {
       headline: "Moving out of a rental apartment isn't finished the moment you hand back the keys.",
       lead: "The landlord inspects for damage, releases your security deposit once satisfied, and keeps a file of the lease, the move-out inspection, and any correspondence in case a dispute ever comes up later.",
       heading: "Moving out of a rental apartment isn't finished the moment you hand back the keys. The landlord inspects for damage, releases your security deposit once satisfied, and keeps a file of the lease, the move-out inspection, and any correspondence in case a dispute ever comes up later.",
-      cta: "Reveal the contract closure logic",
+      cta: "Reveal the logic",
       image: "rental-move-out",
       reveal: {
         title: "Contract closure runs on the exact same logic",
@@ -25,7 +25,7 @@ export const lesson = {
       kicker: "Screen 2 — The Final Invoice and Retainage",
       headline: "The seller's final invoice doesn't just get paid. It gets checked.",
       heading: "The seller's final invoice doesn't just get paid. It gets checked.",
-      cta: "Reveal the verification discipline",
+      cta: "Reveal the discipline",
       image: "invoice-retainage",
       reveal: {
         title: "The Final Invoice and Retainage",
@@ -67,7 +67,7 @@ export const lesson = {
       kicker: "Screen 4 — Formal Notice and the Archived File",
       headline: "Closure completes with two final acts",
       heading: "Closure completes with two final acts: telling the seller it's over, and building the file that outlives everyone who lived through it.",
-      cta: "Reveal the archive test",
+      cta: "Reveal the archive",
       image: "formal-notice-archive",
       reveal: {
         title: "Formal Notice and the Archived File",
